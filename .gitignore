@@ -1,0 +1,14 @@
+# KiCad
+*.bak
+*.bck
+*cache.lib
+*.kicad_pcb-bak
+*.sch-bak
+*-backups/
+
+stm32h7-messe-shield.net
+fp-info-cache
+
+# other backup files
+*~
+\#*#
