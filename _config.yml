@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+
+title: baggerdails - A RPi HAT for a trade fair demo
+description: The baggerdails RPi HAT is a small PCB containing 14 LEDs, a 256k serial EEPROM, an ATECC608 Security Verification / Encryption IC, two SPI display connectors and last but not least an USB serial converter attached to a full-size 40W GPIO connector as described in the [ADD-ON BOARDS AND HATs specification](https://github.com/raspberrypi/hats).
+logo: https://github.com/linutronix/baggerdails/raw/master/images/logo.png
+show_downloads: true
+
+github:
+  zip_url: downloads/fabrication.zip
+  tar_url: downloads/fabrication.tar.gz
