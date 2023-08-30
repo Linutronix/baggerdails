@@ -1,0 +1,27 @@
+Drill report for baggerdails.kicad_pcb
+Created on Wed Aug 30 06:09:58 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'baggerdails-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.600mm  0.0236"  (33 holes)
+    T2  0.600mm  0.0236"  (2 holes)  (with 2 slots)
+    T3  0.700mm  0.0276"  (1 hole)
+    T4  0.850mm  0.0335"  (2 holes)
+    T5  1.000mm  0.0394"  (54 holes)
+
+    Total plated holes count 92
+
+
+Drill file 'baggerdails-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.700mm  0.1063"  (4 holes)
+
+    Total unplated holes count 4
